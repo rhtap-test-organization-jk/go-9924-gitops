@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-9924-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/go-9924
